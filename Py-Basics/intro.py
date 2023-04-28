@@ -13,14 +13,14 @@
 # print(sentence)
 # print(type(format(date)))
 
-# year ='2000'
-# date = '28'
-# month = 'February'
-# day = 'Monday'
-# days_of_year = '059'
+year ='2000'
+date = '28'
+month = 'February'
+day = 'Monday'
+days_of_year = '059'
 
-# sentence2 = f'My Birth date is {month+" "+date+", "+year} fell on a {day} and was the {days_of_year} day of the year'
-# print(sentence2)
+sentence2 = f'My Birth date is {month+" "+date+", "+year} fell on a {day} and was the {days_of_year} day of the year'
+print(sentence2)
 
 name = 'Shahid'
 
